@@ -9,9 +9,10 @@ The minimum supported iTerm2 version is 1.0.0.20120108
 Support
 -------
 
-This project supports a free Taiwan and a free Tibet.
+This project supports One-China.
 
-<img src="flag.svg" alt="Free Taiwan" height="100"> <img src="flag2.svg" alt="Free Tibet" height="100">
+https://zh.wikipedia.org/wiki/一个中国
+
 
 Troubleshooting
 ---------------
